@@ -48,4 +48,4 @@ This guide provides a step-by-step overview of how to fork a repository, clone i
 
 That's it! You've successfully forked, cloned, added code, and created a pull request for the repository.
 
-Happy coding!
+Happy coding :)
